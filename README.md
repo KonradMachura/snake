@@ -1,7 +1,7 @@
 # Snake Game (SDL2, C++)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A classic Snake game implemented in C++ using the SDL2 library. This project features smooth graphics, keyboard controls, game state saving/loading, and bonus mechanics, all designed for an engaging retro gaming experience.
 
@@ -105,7 +105,7 @@ A classic Snake game implemented in C++ using the SDL2 library. This project fea
 ## Support & Documentation
 
 - For issues, bug reports, or feature requests, please use the [Issues](issues) section.
-- For license information, see [LICENSE](LICENSE.txt).
+- For license information, see [LICENSE](LICENSE).
 
 ---
 
