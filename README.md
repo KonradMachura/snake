@@ -22,7 +22,7 @@ A classic Snake game implemented in C++ using the SDL2 library. This project fea
 
 ---
 
-##Screenshots
+## Screenshots
 
 ![Gameplay](assets/screenshots/gameplay.png)
 ![Gameover](assets/screenshots/gameover.png)
